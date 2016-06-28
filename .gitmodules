@@ -1,0 +1,3 @@
+[submodule "DASH/HungServoing/SFDyn"]
+	path = DASH/HungServoing/SFDyn
+	url = git@github.com:jrvanwhy/dyn_tool.git
